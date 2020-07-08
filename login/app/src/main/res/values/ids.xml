@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ue" type="id"></item>
+    <item name="pd" type="id"></item>
+    <item name="ed" type="id"></item>
+    <item name="pr" type="id"></item>
+</resources>
